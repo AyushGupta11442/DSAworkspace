@@ -1,7 +1,23 @@
+/*
+Problem:
+Link:
+
+Approach:
+1.
+2.
+
+Time Complexity:
+Space Complexity:
+
+Notes:
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
+
 int main() {
-ios::sync_with_stdio(false);
-cin.tie(NULL);
-return 0;
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout << "hello";
+    return 0;
 }
